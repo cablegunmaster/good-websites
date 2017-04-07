@@ -20,3 +20,5 @@ http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/se
 
 ## Laravel CI for jenkins:
 http://jenkins-php.org/integration.html
+
+https://github.com/amochohan/laravel-jenkins-ci-boilerplate  (CI boiler plate) 
