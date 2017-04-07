@@ -16,3 +16,7 @@ http://stackoverflow.com/questions/8026320/spring-security-localeresolver   -loc
 https://www.mkyong.com/spring-mvc/spring-mvc-internationalization-example/  - example for mvc internationalization.
 
 http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/servlet/LocaleResolver.html - locales.
+
+
+## Laravel CI for jenkins:
+http://jenkins-php.org/integration.html
